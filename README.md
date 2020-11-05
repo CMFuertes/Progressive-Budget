@@ -49,7 +49,7 @@ Use this to track your spending over the course of a month.
 
 ## Tests
 
-Consistent use 'npm' start to see if the application is running in order to seek out any errors. 
+Consistent use 'npm start' to see if the application is running in order to seek out any errors. 
 
 ## Contributing
 
