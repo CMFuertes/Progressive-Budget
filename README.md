@@ -1,6 +1,6 @@
 # Progressive-Budget ![NPM](https://img.shields.io/npm/l/sta)
 
-[Screenshot](https://github.com/CMFuertes/Progressive-Budget/blob/main/public/img/Budget%20Screenshot.png?raw=true)
+![Screenshot](https://github.com/CMFuertes/Progressive-Budget/blob/main/public/img/Budget%20Screenshot.png?raw=true)
 
 ## Table Of Contents 
 
